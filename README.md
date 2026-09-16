@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic AI — Day 1
 ## Local setup and hands-on programs
 
@@ -489,3 +490,7 @@ one to one.
 ---
 
 *SoDak EduTech · Agentic AI Track · sodakedutech.in*
+=======
+# AI-AGENTS-CLASS
+9 days 
+>>>>>>> 02e7e8e3439f9b3d9de9bcb8dcfdc1060bf84fda
