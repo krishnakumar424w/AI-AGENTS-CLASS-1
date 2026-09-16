@@ -1,0 +1,6 @@
+{
+  "name": "AI Agents Class",
+  "description": "Interactive Agentic AI curriculum and live execution runtime covering agent loops, tool schemas, self-healing error recovery, session memory, and multi-agent patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
